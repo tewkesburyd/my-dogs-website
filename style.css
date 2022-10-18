@@ -1,0 +1,14 @@
+body {
+    background: rgb(182, 222, 238);
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+    border: 5px solid tomato;
+}
+
+p {
+    font-family: sans-serif;
+    text-align: center;
+}
